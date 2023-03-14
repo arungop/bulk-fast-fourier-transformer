@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 #!interpreter [optional-arg]
 __author__ = "Arun Gopinathan"
-__copyright__ = "Copyright 2007, The Cogent Project"
 __credits__ = ["Arun Gopinathan",'Rajeev Raveendran']
 __license__ = "GNU GPL"
 __version__ = "0.0.1"
