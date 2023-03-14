@@ -41,7 +41,7 @@ in the folder and then apply fast fourier transform to each image. Both cropped 
 ![Zoom colour](./images/Sample_image_fourier_zoom_color.png)
 
 
-Made with ❤️ by [Arun Gopinathan](www.arungopinathan.com)
+Made with ❤️ by [Arun Gopinathan](https://www.arungopinathan.com/)
 
 
 
