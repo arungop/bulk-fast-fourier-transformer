@@ -18,17 +18,17 @@ in the folder and then apply fast fourier transform to each image. Both cropped 
 ## Sample output
 - Input image is in *.tif* format
 - Cropped image
-![Cropped](/images/Sample_image_Cropped.png)
+![Cropped](./images/Sample_image_Cropped.png)
 
 - 2D FFT image
-![FFT](/images/Sample_image_fourier.png)
+![FFT](./images/Sample_image_fourier.png)
 
 - Colourised
-![Colour FFT](/images/Sample_image_fourier_colour.png)
+![Colour FFT](./images/Sample_image_fourier_colour.png)
 
 - Zoomed and coloured
-![Zoom](/images/Sample_image_fourier_zoom.png)
-![Zoom colour](/images/Sample_image_fourier_zoom_color.png)
+![Zoom](./images/Sample_image_fourier_zoom.png)
+![Zoom colour](./images/Sample_image_fourier_zoom_color.png)
 
 
 Made with ❤️ by [Arun Gopinathan](www.arungopinathan.com)
